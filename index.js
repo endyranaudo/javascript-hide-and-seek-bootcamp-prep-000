@@ -8,6 +8,6 @@ function nestedTarget() {
 
 function increaseRankBy(n){
   for(let i = 0; i < n.lenght; i++{
-    return d
+    return document.
   })
 }
